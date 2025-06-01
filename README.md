@@ -53,8 +53,6 @@ Real-Time Communication: WebSockets (Socket.IO)
 Database: MongoDB or PostgreSQL
 
 This project demonstrates proficiency in full-stack development, real-time communication protocols, and database management, making it a valuable addition to any developer’s portfolio.
-<pre> ```bash collab-editor/ │ ├── backend/ │ ├── controllers/ │ ├── models/ │ ├── routes/ │ ├── utils/ │ ├── middlewares/ │ ├── config/ │ ├── socket/ │ ├── server.js │ └── package.json │ ├── client/ │ ├── public/ │ ├── src/ │ │ ├── components/ │ │ ├── context/ │ │ ├── hooks/ │ │ ├── pages/ │ │ ├── services/ │ │ ├── utils/ │ │ ├── App.js │ │ ├── index.js │ │ └── styles/ │ └── package.json │ ├── .env ├── .gitignore ├── README.md └── docker-compose.yml ``` </pre>
-
 
 *COMMANDS REQUIRED TO EXECUTE*: 
 
