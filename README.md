@@ -53,37 +53,7 @@ Real-Time Communication: WebSockets (Socket.IO)
 Database: MongoDB or PostgreSQL
 
 This project demonstrates proficiency in full-stack development, real-time communication protocols, and database management, making it a valuable addition to any developer’s portfolio.
-[*collab-editor/
-│
-├── backend/                      # Node.js/Express backend
-│   ├── controllers/              # API route controllers
-│   ├── models/                   # Database models (e.g., MongoDB schemas)
-│   ├── routes/                   # Express route definitions
-│   ├── utils/                    # Utility/helper functions
-│   ├── middlewares/              # Express middlewares (auth, error handling, etc.)
-│   ├── config/                   # Configuration files (DB config, env vars)
-│   ├── socket/                   # WebSocket (Socket.io) logic
-│   ├── server.js                 # Main server entry point
-│   └── package.json              # Backend dependencies and scripts
-│
-├── client/                       # React frontend
-│   ├── public/                   # Static files (index.html, favicon, etc.)
-│   ├── src/
-│   │   ├── components/           # React components (Editor, Toolbar, etc.)
-│   │   ├── context/              # React Context or Redux store (for state mgmt)
-│   │   ├── hooks/                # Custom React hooks
-│   │   ├── pages/                # Pages or views (Home, Editor, Login, etc.)
-│   │   ├── services/             # API calls or socket service wrappers
-│   │   ├── utils/                # Utility functions/helpers
-│   │   ├── App.js                # Main app component
-│   │   ├── index.js              # React entry point
-│   │   └── styles/               # CSS or styling files (optional)
-│   └── package.json              # Frontend dependencies and scripts
-│
-├── .env                         # Environment variables for backend/frontend
-├── .gitignore                   # Files/folders to ignore in git
-├── README.md                    # Project overview and instructions
-└── docker-compose.yml (optional) *](https://github.com/vedha09-varshu/-REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/README.md)
+<pre> ```bash collab-editor/ │ ├── backend/ │ ├── controllers/ │ ├── models/ │ ├── routes/ │ ├── utils/ │ ├── middlewares/ │ ├── config/ │ ├── socket/ │ ├── server.js │ └── package.json │ ├── client/ │ ├── public/ │ ├── src/ │ │ ├── components/ │ │ ├── context/ │ │ ├── hooks/ │ │ ├── pages/ │ │ ├── services/ │ │ ├── utils/ │ │ ├── App.js │ │ ├── index.js │ │ └── styles/ │ └── package.json │ ├── .env ├── .gitignore ├── README.md └── docker-compose.yml ``` </pre>
 
 
 *COMMANDS REQUIRED TO EXECUTE*: 
