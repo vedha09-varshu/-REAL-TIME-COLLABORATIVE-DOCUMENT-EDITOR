@@ -63,4 +63,7 @@ This project demonstrates proficiency in full-stack development, real-time commu
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/b7e71147-4003-4c34-94d2-bf18f43f5dd4)
+![Image](https://github.com/user-attachments/assets/ad49f3f5-01ae-4513-a968-f22f73e625d8)
+
 
