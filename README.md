@@ -53,7 +53,7 @@ Real-Time Communication: WebSockets (Socket.IO)
 Database: MongoDB or PostgreSQL
 
 This project demonstrates proficiency in full-stack development, real-time communication protocols, and database management, making it a valuable addition to any developer’s portfolio.
-*collab-editor/
+[*collab-editor/
 │
 ├── backend/                      # Node.js/Express backend
 │   ├── controllers/              # API route controllers
@@ -83,7 +83,7 @@ This project demonstrates proficiency in full-stack development, real-time commu
 ├── .env                         # Environment variables for backend/frontend
 ├── .gitignore                   # Files/folders to ignore in git
 ├── README.md                    # Project overview and instructions
-└── docker-compose.yml (optional) *
+└── docker-compose.yml (optional) *](https://github.com/vedha09-varshu/-REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/README.md)
 
 
 *COMMANDS REQUIRED TO EXECUTE*: 
