@@ -54,6 +54,8 @@ Database: MongoDB or PostgreSQL
 
 This project demonstrates proficiency in full-stack development, real-time communication protocols, and database management, making it a valuable addition to any developer’s portfolio.
 
+![image](https://github.com/user-attachments/assets/bf17db6d-e8d6-453b-af5d-6851791ca64d)
+
 *COMMANDS REQUIRED TO EXECUTE*: 
 
 1. open command promt from start --> run as administrator
